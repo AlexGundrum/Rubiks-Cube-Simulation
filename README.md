@@ -4,7 +4,7 @@ This is a 3D Rubik's Cube simulation built using Processing in Java. The cube ca
 
 ## Features
 - **3D Rendering**: The cube is rendered in 3D using Processing's `P3D` mode.
-- **Keyboard Controls**: Rotate the cube faces using keyboard keys (`u`, `d`, `l`, `r`, `f`, `b`).
+- **Keyboard Controls**: Rotate the cube faces using keyboard keys (`w`, `y`, `g`, `b`, `r`, `o`).
 - **Scramble Function**: Randomly scramble the cube with the `z` key.
 - **Customizable Cube Size**: Supports NxNxN cubes (currently set to 3x3x3).
 
