@@ -23,8 +23,6 @@ This is a 3D Rubik's Cube simulation built using Processing in Java. The cube ca
    ```
 3. Open in processing: Open project in processing IDE
 4. Click "Run"
-5. Click the key corresponding to the face you want to turn
-
 
 ## Controls
 b: Rotate the blue face.
